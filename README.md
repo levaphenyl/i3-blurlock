@@ -1,4 +1,5 @@
 Screen locking script with blurring.
+![before-after](https://user-images.githubusercontent.com/29597341/120894626-b5b5ba80-c619-11eb-9d5f-44a9cd0d26a4.png)
 
 ### Installation
 Depends on:
